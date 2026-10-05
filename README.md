@@ -7,7 +7,6 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em Desenvolvimento Ba
 - Cursando Análise e Desenvolvimento de Sistemas — UNITAU (Universidade de Taubaté)
 - Ensino medio e técnico em Desenvolvimento de Sistemas — ETEC Machado de Assis
 - Certificação Internacional em Inglês Avançado — Callan Method
-- Taubaté, SP — Brasil
 
 ### Tecnologias e Habilidades
 
