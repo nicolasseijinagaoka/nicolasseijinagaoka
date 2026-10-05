@@ -31,5 +31,4 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em Desenvolvimento Ba
 ### Contato
 
 LinkedIn: https://www.linkedin.com/in/nicolas-seiji
-
 E-mail: nicolasseij@gmail.com
