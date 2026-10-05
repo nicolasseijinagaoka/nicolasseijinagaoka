@@ -30,5 +30,5 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em Desenvolvimento Ba
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-seiji)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasseij@gmail.com)
+LinkedIn: https://www.linkedin.com/in/nicolas-seiji
+E-mail: nicolasseij@gmail.com
